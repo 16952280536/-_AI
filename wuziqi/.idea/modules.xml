@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../AI/AI.iml" filepath="$PROJECT_DIR$/../../AI/AI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Gobang-master/Gobang-master.iml" filepath="$PROJECT_DIR$/../../Gobang-master/Gobang-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../biye2/blog/blog.iml" filepath="$PROJECT_DIR$/../../biye2/blog/blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../chess-master/chess-master.iml" filepath="$PROJECT_DIR$/../../chess-master/chess-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wuziqi.iml" filepath="$PROJECT_DIR$/wuziqi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../wuziqi2/wuziqi2.iml" filepath="$PROJECT_DIR$/../../wuziqi2/wuziqi2.iml" />
+    </modules>
+  </component>
+</project>
